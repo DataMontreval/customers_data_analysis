@@ -1,45 +1,46 @@
-Customer Shopping Behavior Analysis
-Project Summary
+🛒 Customer Shopping Behavior Analysis
+📌 Project Overview
 
-End-to-end data analytics project focused on analyzing customer shopping behavior in a retail environment.
-The project explores purchasing patterns, customer segments, product performance, and subscription impact to support data-driven business decisions.
+End-to-end data analytics portfolio project focused on analyzing customer shopping behavior in a retail environment using transactional data.
 
-Business Goal
+The project demonstrates practical skills in Python, SQL, and Power BI and shows how raw data is transformed into actionable business insights.
 
-Identify key factors influencing customer behavior and repeat purchases, and translate analytical insights into actionable recommendations for marketing and product strategy.
+🎯 Business Objective
 
-Tech Stack
+Understand what drives customer purchasing decisions and repeat behavior, and use these insights to support marketing optimization, customer engagement, and product strategy.
 
-Python — data cleaning, preprocessing, feature engineering
+🧰 Tech Stack
 
-PostgreSQL — analytical SQL queries and customer segmentation
+Python — data cleaning, EDA, feature engineering
+
+PostgreSQL — analytical SQL queries, segmentation, metrics
 
 Power BI — interactive dashboard and visual insights
 
-What I Did
+🔍 What Was Done
 
-Cleaned and prepared transactional data (~3.9K records) using Python
+Cleaned and prepared ~3,900 transaction records
 
-Performed exploratory analysis and feature engineering
+Performed exploratory data analysis and feature engineering
 
 Analyzed customer behavior and revenue drivers using SQL
 
-Built an interactive Power BI dashboard to present key insights
+Built an interactive Power BI dashboard for stakeholders
 
-Key Focus Areas
+📊 Key Analysis Areas
 
-Customer segmentation (new, returning, loyal)
+Customer segmentation (new / returning / loyal)
 
 Subscription vs. non-subscription behavior
 
 Revenue by demographics and product categories
 
-Discount impact and repeat purchase patterns
+Impact of discounts on purchasing patterns
 
-Output
+📈 Project Outputs
 
-SQL-based business insights
+SQL-based analytical insights
 
-Power BI dashboard for stakeholder use
+Power BI dashboard
 
-Actionable recommendations based on data
+Business-focused recommendations
